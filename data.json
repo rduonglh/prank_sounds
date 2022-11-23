@@ -2449,51 +2449,6 @@
     ],
     "crack_screen": [
         {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll1.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll2.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll3.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll4.png"
-        },
-        {
-            "image_url": "https://github.com/rduonglh/prank_sounds/raw/main/broken-screens/cockroach.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll6.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll7.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll8.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll9.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll10.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll11.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll12.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll13.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll14.png"
-        },
-        {
-            "image_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Crack_Screen/troll15.png"
-        },
-        {
             "image_url": "https://raw.githubusercontent.com/rduonglh/prank_sounds/main/broken-screens/broken%201.png"
         },
         {
@@ -2516,6 +2471,21 @@
         },
         {
             "image_url": "https://raw.githubusercontent.com/rduonglh/prank_sounds/main/broken-screens/broken%208.png"
+        },
+        {
+            "image_url": "https://github.com/rduonglh/prank_sounds/raw/main/broken-screens/troll1.png"
+        },
+        {
+            "image_url": "https://github.com/rduonglh/prank_sounds/raw/main/broken-screens/cockroach.png"
+        },
+        {
+            "image_url": "https://github.com/rduonglh/prank_sounds/raw/main/broken-screens/troll5.png"
+        },
+        {
+            "image_url": "https://github.com/rduonglh/prank_sounds/raw/main/broken-screens/troll2.png"
+        },
+        {
+            "image_url": "https://github.com/rduonglh/prank_sounds/raw/main/broken-screens/troll8.png"
         },
         {
             "image_url": "https://raw.githubusercontent.com/rduonglh/prank_sounds/main/broken-screens/broken%209.png"
