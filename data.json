@@ -1079,17 +1079,6 @@
             ]
         },
         {
-            "name": "Clapping",
-            "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Clapping/Icons/main.png",
-            "children":[
-                {
-                    "name": "Clapping",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Clapping/Icons/main.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Laughing%20_%20Clapping/laughing_2.mp3"
-                }
-            ]
-        },
-        {
             "name": "Laughing",
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Laughing/Icons/main.png",
             "children":
