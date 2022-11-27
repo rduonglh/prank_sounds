@@ -6,6 +6,11 @@
             "children": [
                 {
                     "name": "Remix",
+                    "icon_url": "https://d1fvu3xrca26wk.cloudfront.net/icons/icon-sounds/Airhorn.png",
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_1.mp3"
+                },
+                {
+                    "name": "Remix",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/remix.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/remix.mp3?raw=true"
                 },
@@ -48,13 +53,7 @@
                     "name": "Emergency 2",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/emergency_2.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/emergency_among_us.mp3?raw=true"
-                },
-                {
-                    "name": "Fart",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/fart.png",
-                    "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/fart_horn.mp3?raw=true"
-                },
-                {
+                },                {
                     "name": "Ghost siren",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/ghost_siren.png",
                     "mp3_url": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/ghost_siren.mp3?raw=true"
@@ -2167,7 +2166,7 @@
                 },
                 {
                     "name": "Hand Drill",
-                    "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/remix.png",
+                    "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Tool/Handdrill.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Tools/Hand%20drill.mp3"
                 },
                 {
@@ -2294,7 +2293,7 @@
                 {
                     "name": "Wired Phone",
                     "icon_url": "https://github.com/rduonglh/prank_sounds/raw/main/sounds/Machine/wired_phone.png",
-                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Business%20&%20Office/Wired%20Phone.mp3ht"
+                    "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Business%20&%20Office/Wired%20Phone.mp3"
                 }
             ]
         },
