@@ -5,7 +5,7 @@
             "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/main.png",
             "children": [
                 {
-                    "name": "Remix",
+                    "name": "Loud",
                     "icon_url": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/remix.png",
                     "mp3_url": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_1.mp3"
                 },
